@@ -1056,7 +1056,7 @@ hr {
         align-items: center;
     }
 }
-@media (max-width: 450px) {
+@media (max-width: 500px) {
     .footerr {
         flex-direction: column;
         align-items: center;
@@ -1070,7 +1070,8 @@ hr {
     }
     form button {
         width: 100%;
-        padding-bottom:10px ;
+        hight:auto;
+      
     }
     .copyright {
         flex-direction: column;
