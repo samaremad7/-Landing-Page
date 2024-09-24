@@ -218,12 +218,13 @@ nav .contact {
         padding: 0px;
     }
     .home .text h1 {
-        font-size: 22px;
+        font-size: 20px;
     }
     .home .text p {
-        font-size: 12px;
+        font-size: 11px;
         font-weight: bold;
         padding: 0px;
+        text-align: left;
     }
 }
 /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
@@ -375,7 +376,7 @@ nav .contact {
         margin: 0;
     }
     .right .imgR {
-        height: 60%;
+        height:60%;
         max-width: 70%;
         padding-top: 100px;
         position: absolute;
