@@ -1070,8 +1070,6 @@ hr {
     }
     form button {
         width: 100%;
-        hight:auto;
-      
     }
     .copyright {
         flex-direction: column;
